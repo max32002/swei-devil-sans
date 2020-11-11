@@ -18,7 +18,9 @@ class TtfConfig():
     #PROCESS_MODE = "BAT"
     #PROCESS_MODE = "CURVE"
     #PROCESS_MODE = "GOSPEL"
-    PROCESS_MODE = "MARKER"
+    #PROCESS_MODE = "FIST"
+    #PROCESS_MODE = "MARKER"
+    PROCESS_MODE = "DEVIL"
 
     STYLE_INDEX = 5
     STYLE_ARRAY = ["Black","Bold","Medium","Regular","DemiLight","Light","Thin"]
